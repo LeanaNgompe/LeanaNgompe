@@ -28,7 +28,7 @@ I'm a passionate and dedicated computer science major with a strong interest in 
 - **Senior Thesis**: Investigating AI ethics, focusing on deepfake technology and its impact on our conceptualization of consent.
 
 ### 🌐 Connect with Me
-- **LinkedIn:** [Your LinkedIn URL](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [Jenny Leana Fotso Ngompe](https://www.linkedin.com/in/jenny-leana-fotso-ngompe-770852214/)
 - **Email:** [jlngompe@gmail.com](mailto:jlngompe@gmail.com)
 
 ### 💡 Fun Fact
