@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jenny Leana Fotso Ngompe!
 
-**Senior at Barnard College** | **Computer Science & Women’s, Gender, and Sexuality Studies** | **Aspiring AI and Software Development Professional**
+**BA in Computer Science & Women’s, Gender, and Sexuality Studies** | **Aspiring AI and Software Development Professional**
 
 ---
 
