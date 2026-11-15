@@ -1,37 +1,37 @@
 # 👋 Hello, I'm Jenny Leana Fotso Ngompe!
 
-**BA in Computer Science & Women’s, Gender, and Sexuality Studies** | **Aspiring AI and Software Development Professional**
+**M.S. in Computer Science, Columbia University** | **B.A. in Computer Science & Women's, Gender, and Sexuality Studies, Barnard College** | **Social computing researcher**
 
 ---
 
 ### 🧠 About Me
-I'm a passionate and dedicated computer science major with a strong interest in artificial intelligence, software development, and the ethical dimensions of technology. Currently, I'm conducting research on web development and gender and working on several projects in AI, including clothing match deep learning model and a specialized LLM for generating CWL pipelines.
+I study how digital technologies shape and are shaped by heteropatriarchy, racial capitalism, and colonialism. My research focuses on how social platforms and generative AI bolster existing power asymmetries and facilitate harm, and on how to design more inclusive and accountable systems. I'm applying to PhD programs and glad to talk with researchers working on related questions.
 
 ### 🎓 Education
-- **Barnard College, Columbia University**  
-  *Major:* Computer Science  
-  *Major:* Women’s, Gender, and Sexuality Studies  
-  *Program:* 4+1
+- **Columbia University**: M.S. in Computer Science (May 2026)
+- **Barnard College, Columbia University**: B.A. in Computer Science and Women's, Gender, and Sexuality Studies (May 2025), Graduated with Distinction
 
-### 💻 Projects
-- **Inclusive Web Development Extension** - Collaborating on a VS Code extension to promote gender-inclusive practices in web development.
-- **Deepfake Ethics** - Senior thesis exploring the implications of deepfakes on consent conceptualization.
-- **Fashion Forcast** - Collaborating on a deep learning model that creates matching outfits given an occasion
+### 🔬 Research
+- **Deepfake AI porn and sex worker rights**: Lead RA on a new project investigating how sex workers' content and labor enter the training pipelines of open-source nudification models, and what consent and compensation mean in that ecosystem.
+- **Sentiment and Black joy on TikTok** (Northeastern University): Fine-tuning a SetFit model for sentiment classification of TikTok comments and representing sentiment as a bipartite graph between videos and comments.
+- **TikTok's algorithm and incel content**: Mixed-methods study (15 interviews, persona-based scroll studies, reflexive thematic analysis) of how personalization exposes vulnerable young users to incel content.
+- **Digital Sexual Violence, Revisited**: Honors thesis using Critical Technocultural Discourse Analysis to study a deepfake case and how generative AI amplifies entitlement and existing cycles of violence.
+- **Gender-inclusive web development**: Independent study with Prof. Lucy Simko on gender-inclusive UI guidelines, a developer toolkit website, and a companion VS Code extension.
+
+### 💻 Technical Projects
+- **Skin Condition Classification**: Dermatology AI inclusive of all skin complexions; built a data generator that increased skin-tone diversity in the dataset by 15% ([repo](https://github.com/kmarti28/VIR_AJL_Team-Hyaluronic-Acid)).
+- **LLM for CWL workflows**: Built an LLM-powered system to generate and standardize CWL workflows for bioinformatics pipelines.
 
 ### 🛠️ Technical Skills
-- **Programming Languages:** Python, JavaScript, HTML/CSS
-- **Frameworks & Libraries:** TensorFlow, Keras
-- **Other Tools:** Git, VS Code, Jupyter Notebook
-
-### 📊 Research & Academic Work
-- **Web Development & Gender Research**: Independent study on how web development practices intersect with gender inclusivity.
-- **Senior Thesis**: Investigating AI ethics, focusing on deepfake technology and its impact on our conceptualization of consent.
+- **Languages:** Python, Java, C/C++, SQL, JavaScript
+- **Libraries & Tools:** PyTorch, HuggingFace, TransformerLens, Git
 
 ### 🌐 Connect with Me
-- **LinkedIn:** [Jenny Leana Fotso Ngompe](https://www.linkedin.com/in/jenny-leana-fotso-ngompe-770852214/)
-- **Email:** [jlngompe@gmail.com](mailto:jlngompe@gmail.com)
+- **Website:** [leanangompe.github.io](https://leanangompe.github.io)
+- **LinkedIn:** [Jenny Leana Fotso Ngompe](https://www.linkedin.com/in/jennyleanafotsongompe/)
+- **Email:** [jf3433@columbia.edu](mailto:jf3433@columbia.edu)
 
 ### 💡 Fun Fact
-When I’m not coding or working on my thesis, you might find me reading, going to the gym, or watching Rupaul Drag Race, Teen Wolf, Pretty Little Lairs or The Originals!
+When I'm not coding or working on research, you might find me reading, going to the gym, or watching RuPaul's Drag Race, Teen Wolf, Pretty Little Liars, or The Originals!
 
 
